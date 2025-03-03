@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a **Stock Market Data Scraper** that automatically extracts financial data from [Screener.in](https://www.screener.in/) using **Selenium WebDriver** and saves it into an Excel file. The script updates the data in the existing file and also creates a backup with a timestamp for record-keeping.
+This project is a **Stock Market Data Scraper** that automatically extracts financial data from [Screener.in](https://www.screener.in/) using **Selenium WebDriver** and saves it into an Excel file.
 
 ## Features
 
@@ -32,7 +32,7 @@ Make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/StockMarketScraper.git
+git clone https://github.com/s2910/Stock-Market-Data-Scraper.git
 cd StockMarketScraper
 ```
 
